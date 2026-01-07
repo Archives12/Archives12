@@ -52,10 +52,8 @@ Currently, I am pursuing an **8-month intensive specialization** in **Data Scien
 ## 🏆 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
 
 * **Data Science with Generative AI** | *PW Skills & PwC India*
-    * Mastered the full pipeline: Python → ML Models → Deep Learning → GenAI App.
+    * Mastered the full pipeline: Python → ML Models → Deep Learning → GenAI Apps.
     * Hands-on experience with **LangChain**, **LlamaIndex**, and **Hugging Face**.
-    
-
 
 ---
 
@@ -74,7 +72,6 @@ Currently, I am pursuing an **8-month intensive specialization** in **Data Scien
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Archives12&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Archives12&theme=dracula&hide_border=true" width="48%" />
 </div>
 
@@ -86,5 +83,3 @@ Currently, I am pursuing an **8-month intensive specialization** in **Data Scien
 
 ### 💬 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 Open to collaborating on **Kaggle Competitions** or **C++ Optimization** challenges.
-
-
