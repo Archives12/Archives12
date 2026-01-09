@@ -69,16 +69,15 @@ Currently, I am pursuing an **8-month intensive specialization** in **Data Scien
 ---
 
 ## 📈 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archives12&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Archives12&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archives12&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Archives12&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archives12&layout=compact&theme=dracula&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archives12&layout=compact&theme=dracula&hide_border=true" width="50%" alt="Top Languages" />
 </div>
-
 ---
 
 ### 💬 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
