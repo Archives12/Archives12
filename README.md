@@ -1,84 +1,176 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=500&size=32&pause=1000&color=7045ff&center=true&vCenter=true&width=600&lines=Hi+I'm+Priya+Mehta+👋;Data+Science+%26+GenAI+Learner+📊;C%2B%2B+Logic+%2B+Python+Magic+✨;Building+RAG+%26+LLM+Apps+🧠;Python+%7C+SQL+%7C+TensorFlow+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Priya+Mehta+%F0%9F%91%8B;Data+Science+%26+Generative+AI+Enthusiast+%F0%9F%93%8A;Blending+C%2B%2B+Logic+with+Python+Magic+%E2%9C%A8;Future+RAG+%26+LLM+Builder+%F0%9F%A7%A0;Python+%7C+SQL+%7C+TensorFlow+%F0%9F%9B%A0" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Archives12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/[Your-Linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[Your-Email]"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-I am a Computer Science student blending the **efficiency of C++** with the **analytical power of Data Science**.
-
-Currently, I am pursuing an **8-month intensive specialization** in **Data Science & Generative AI**. My goal is to move beyond basic models and build robust, scalable AI applications using **Large Language Models (LLMs)** and **Retrieval Augmented Generation (RAG)**.
-
----
-
-## 𝚃𝚎𝚌𝚑 𝙰𝚛𝚜𝚎𝚗𝚊𝚕
-
-### 🧠 𝙲𝚘𝚛𝚎 & 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-green?style=for-the-badge) 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🤖 𝙶𝚎𝚗𝙰𝙸 & 𝙼𝙻 (𝙲𝚘𝚞𝚛𝚜𝚎 𝚂𝚝𝚊𝚌𝚔)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) 
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 📊 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🧩 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚒𝚌 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 (𝙲++ 𝙵𝚘𝚌𝚞𝚜)
-
-> "Logic over syntax. Optimization over brute force."
-
-* **Language:** C++ (STL, Pointers)
-* **Key Topics:** Graph Theory, Dynamic Programming
-* **Focus:** Solving LeetCode Medium/Hard problems with optimal Time Complexity.
-
----
-
-## 🏆 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
-
-* **Data Science with Generative AI** | *PW Skills & PwC India*
-    * Mastered the full pipeline: Python → ML Models → Deep Learning → GenAI Apps.
-    * Hands-on experience with **LangChain**, **LlamaIndex**, and **Hugging Face**.
-
----
-
-## 🚧 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **⚖️ Legal Assistant AI** | *LangChain, RAG* | AI chatbot capable of retrieving and summarizing legal documents. |
-| **🐯 Wildlife Detector** | *YOLO, OpenCV* | Real-time image classification system to identify species in video feeds. |
-| **📈 Stock Anomaly Check** | *Python, ML* | Predictive model to detect irregularities in market trends using time-series data. |
-| **🛍️ Sales Dashboard** | *PowerBI, SQL* | Visualizing customer churn and sales performance for business insights. |
-
----
-
-## 📈 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archives12&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
+  <a href="https://github.com/Archives12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:prmehta0512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Aspiring_Data_Scientist-7C3AED?style=for-the-badge&logo=github" />
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science student passionate about merging the **efficiency of C++** with the **analytical power of Data Science**. Currently, I'm deepening my expertise through an **8-month intensive specialization in Data Science & Generative AI**. My focus is on building a strong foundation in algorithms and data science before advancing to build robust AI applications.
+
+---
+
+## 🛠️ Tech Stack (Learning & Practicing)
+
+### **🧠 Core & Algorithms** *(Active Learning)*
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-2F855A?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-805AD5?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### **🤖 Future GenAI & ML Stack** *(Course Curriculum)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### **📊 Data Tools** *(Upcoming in Course)*
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 Current GitHub Status
+
+<div align="center">
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Archives12&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+  ### 📚 **Learning Repositories**
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Learning_Repos-3-blue?style=for-the-badge&logo=github" />
+        <br/>
+        <sub>Practice Code</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Focus_C++-2-orange?style=for-the-badge&logo=cplusplus" />
+        <br/>
+        <sub>C++ Practice</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Learning_Python-1-green?style=for-the-badge&logo=python" />
+        <br/>
+        <sub>Python Basics</sub>
+      </td>
+    </tr>
+  </table>
+  
+  ### 📖 **Current Learning Breakdown**
+  
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 10px 0; font-family: 'Monaco', 'Courier New', monospace; font-size: 14px; line-height: 1.6;">
+    <strong>🎯 Current Phase:</strong> Building Foundations<br/>
+    <strong>📚 Total Practice Repos:</strong> 3<br/>
+    <strong>⚡ Primary Focus:</strong> C++ Data Structures & Algorithms<br/>
+    <strong>🐍 Secondary Focus:</strong> Python for Data Science<br/>
+    <strong>📅 Next Goal:</strong> Complete DSA-cpp repository
+  </div>
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archives12&layout=compact&theme=dracula&hide_border=true" width="50%" alt="Top Languages" />
-</div>
 ---
 
-### 💬 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
-Open to collaborating on **Kaggle Competitions** or **C++ Optimization** challenges.
+## 📂 My Learning Repositories
+
+<div align="center">
+
+| Repository | Type | Current Status | Focus Area |
+| :--- | :--- | :--- | :--- |
+| **[DSA-cpp](https://github.com/Archives12/DSA-cpp)** | Learning Repo | *In Progress* | Data Structures & Algorithms in C++ |
+| **[Learning-python](https://github.com/Archives12/Learning-python)** | Learning Repo | *Just Started* | Python fundamentals & Jupyter notebooks |
+| **[learning-cpp](https://github.com/Archives12/learning-cpp)** | Learning Repo | *Ongoing* | C++ syntax & basic concepts |
+
+</div>
+
+---
+
+## 🎯 Learning Roadmap
+
+### **Phase 1: Foundation Building** *(Current)*
+- ✅ **C++ Fundamentals**: Syntax, OOP, basic DSA
+- 🔄 **Python Basics**: Starting with Jupyter notebooks
+- 📅 **SQL**: Upcoming in course syllabus
+
+### **Phase 2: Data Science Core** *(Upcoming)*
+- 📅 **Pandas & NumPy**: Data manipulation
+- 📅 **Statistics**: For ML foundations
+- 📅 **Data Visualization**: Matplotlib/Seaborn
+
+### **Phase 3: AI/ML Specialization** *(Future)*
+- 📅 **Machine Learning**: Scikit-learn
+- 📅 **Deep Learning**: TensorFlow/PyTorch
+- 📅 **GenAI**: LangChain, RAG applications
+
+---
+
+## 📜 Current Certification in Progress
+- **Data Science with Generative AI** | *PW Skills & PwC India*
+    - Status: **Ongoing** (8-month program)
+    - Current Module: Programming Foundations
+    - Upcoming: Data Analysis with Python
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<div align="center">
+  
+  ### 🌟 My Contribution Activity
+  
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Archives12&theme=react-dark&hide_border=true&area=true&custom_title=Priya's+Learning+Journey)
+  
+  *Every square represents a day of learning and coding progress*
+  
+</div>
+
+---
+
+## 🧮 Algorithmic Focus
+> *"Master the fundamentals before scaling complexity."*
+
+- **Current Priority:** C++ Data Structures & Algorithms
+- **Daily Practice:** LeetCode/CodeChef problems
+- **Learning Method:** Build understanding → Code → Review
+- **GitHub Goal:** Document my learning journey transparently
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+  📧 **Email:** [prmehta0512@gmail.com](mailto:prmehta0512@gmail.com)  
+  🐱 **GitHub:** [@Archives12](https://github.com/Archives12)
+  
+  *Fellow learners and mentors are welcome to connect! I'm documenting my journey from basics to advanced Data Science.*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Archives12&color=7C3AED&style=for-the-badge&label=Profile+Views)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📈 Learning Consistency Tracker
+  
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 10px 0;">
+    <strong>📊 This Week's Learning Goals:</strong><br/>
+    • Complete 5 C++ DSA problems<br/>
+    • Practice Python functions & loops<br/>
+    • Update learning repositories daily<br/>
+    • Review one ML concept daily
+  </div>
+  
+  *"Starting with strong foundations. The complex projects will come."* 🚀
+  
+  ![Last Updated](https://img.shields.io/github/last-commit/Archives12/Archives12?label=Profile%20Updated&style=for-the-badge&color=7C3AED)
+  
+</div>
