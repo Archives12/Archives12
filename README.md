@@ -73,8 +73,6 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
     <strong>📅 Next Goal:</strong> Complete DSA-cpp repository
   </div>
   
-  <img src="https://progress-bar.dev/40/?width=400&color=7C3AED&title=Learning+Progress" />
-  
 </div>
 
 ---
