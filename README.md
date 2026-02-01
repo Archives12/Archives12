@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Priya+Mehta+%F0%9F%91%8B;Data+Science+%26+Generative+AI+Enthusiast+%F0%9F%93%8A;Blending+C%2B%2B+Logic+with+Python+Magic+%E2%9C%A8;Future+RAG+%26+LLM+Builder+%F0%9F%A7%A0;Python+%7C+SQL+%7C+TensorFlow+%F0%9F%9B%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Priya+Mehta+%F0%9F%91%8B;Data+Science+%26+Gen+AI+Enthusiast+%F0%9F%93%8A;Blending+C%2B%2B+Logic+with+Python+Magic+%E2%9C%A8;Future+RAG+%26+LLM+Builder+%F0%9F%A7%A0;Python+%7C+SQL+%7C+TensorFlow+%F0%9F%9B%A0" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -73,6 +73,8 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
     <strong>📅 Next Goal:</strong> Complete DSA-cpp repository
   </div>
   
+  <img src="https://progress-bar.dev/40/?width=400&color=7C3AED&title=Learning+Progress" />
+  
 </div>
 
 ---
@@ -115,20 +117,6 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
     - Status: **Ongoing** (8-month program)
     - Current Module: Programming Foundations
     - Upcoming: Data Analysis with Python
-
----
-
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-  
-  ### 🌟 My Contribution Activity
-  
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Archives12&theme=react-dark&hide_border=true&area=true&custom_title=Priya's+Learning+Journey)
-  
-  *Every square represents a day of learning and coding progress*
-  
-</div>
 
 ---
 
