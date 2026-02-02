@@ -38,7 +38,6 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
 ---
 
 ## 📊 Current GitHub Status
-
 <div align="center">
   
   ### 📚 **Learning Repositories**
@@ -46,7 +45,7 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Learning_Repos-3-blue?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Learning_Repos-4-blue?style=for-the-badge&logo=github" />
         <br/>
         <sub>Practice Code</sub>
       </td>
@@ -56,9 +55,9 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
         <sub>C++ Practice</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Learning_Python-1-green?style=for-the-badge&logo=python" />
+        <img src="https://img.shields.io/badge/Learning_Python-2-green?style=for-the-badge&logo=python" />
         <br/>
-        <sub>Python Basics</sub>
+        <sub>Python Practice</sub>
       </td>
     </tr>
   </table>
@@ -67,7 +66,7 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
   
   <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 10px 0; font-family: 'Monaco', 'Courier New', monospace; font-size: 14px; line-height: 1.6;">
     <strong>🎯 Current Phase:</strong> Building Foundations<br/>
-    <strong>📚 Total Practice Repos:</strong> 3<br/>
+    <strong>📚 Total Practice Repos:</strong> 4<br/>
     <strong>⚡ Primary Focus:</strong> C++ Data Structures & Algorithms<br/>
     <strong>🐍 Secondary Focus:</strong> Python for Data Science<br/>
     <strong>📅 Next Goal:</strong> Complete DSA-cpp repository
@@ -79,15 +78,13 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
 
 ## 📂 My Learning Repositories
 
-<div align="center">
-
 | Repository | Type | Current Status | Focus Area |
 | :--- | :--- | :--- | :--- |
 | **[DSA-cpp](https://github.com/Archives12/DSA-cpp)** | Learning Repo | *In Progress* | Data Structures & Algorithms in C++ |
-| **[Learning-python](https://github.com/Archives12/Learning-python)** | Learning Repo | *Just Started* | Python fundamentals & Jupyter notebooks |
 | **[learning-cpp](https://github.com/Archives12/learning-cpp)** | Learning Repo | *Ongoing* | C++ syntax & basic concepts |
+| **[Learning-python](https://github.com/Archives12/Learning-python)** | Learning Repo | *Just Started* | Python fundamentals & Jupyter notebooks |
+| **[DSA-Python](https://github.com/Archives12/DSA-Python)** | Learning Repo | *In Progress* | Data Structures & Algorithms in Python |
 
-</div>
 
 ---
 
@@ -148,11 +145,10 @@ I'm a Computer Science student passionate about merging the **efficiency of C++*
   ### 📈 Learning Consistency Tracker
   
   <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 10px 0;">
-    <strong>📊 This Week's Learning Goals:</strong><br/>
-    • Complete 5 C++ DSA problems<br/>
-    • Practice Python functions & loops<br/>
+    <strong>📊 Learning Goals:</strong><br/>
+    • C++ DSA problems<br/>
+    • Practice Python <br/>
     • Update learning repositories daily<br/>
-    • Review one ML concept daily
   </div>
   
   *"Starting with strong foundations. The complex projects will come."* 🚀
